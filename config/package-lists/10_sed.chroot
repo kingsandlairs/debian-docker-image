@@ -1,0 +1,1 @@
+find . -exec sed -i /debian/oribtOS/g {} \;
